@@ -1,2 +1,5 @@
 # hello-world
-My first repository!
+
+Hi everyone,
+
+Ishak here. I love developing websites using HTML, CSS and Javascript. 
